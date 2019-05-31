@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
 
                 int imageResourceId = ballArray[number];
                 ballDisplay.setImageResource(imageResourceId);
-
             }
         });
     }
